@@ -74,17 +74,17 @@ export const stats = [
   {
     id: "stats-1",
     title: "Available Domains",
-    value: "100 +",
+    value: "100+",
   },
   {
     id: "stats-2",
     title: "Hosted Websites",
-    value: "50 +",
+    value: "50+",
   },
   {
     id: "stats-3",
     title: "Developed Softwares",
-    value: "20 +",
+    value: "20+",
   },
 ];
 

@@ -7,9 +7,6 @@ import dropbox from "./dropbox.png";
 import logo from "./logo.svg";
 import quotes from "./quotes.svg";
 import robot from "./robot.jpg";
-import send from "./Send.svg";
-import shield from "./Shield.svg";
-import star from "./Star.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import google from "./google.svg";
@@ -23,6 +20,14 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
+import hosting from "./hosting.svg";
+import app_dev from "./app_dev.svg";
+import ecommerce from "./ecommerce.svg";
+import design from "./design.svg";
+import maintenance from "./maintenance.svg";
+import security from "./security.svg";
+import ux from "./ux.svg";
+import web_dev from "./web_dev.svg";
 
 export {
   airbnb,
@@ -34,9 +39,6 @@ export {
   logo,
   quotes,
   robot,
-  send,
-  shield,
-  star,
   menu,
   close,
   google,
@@ -50,4 +52,12 @@ export {
   people01,
   people02,
   people03,
+  hosting,
+  app_dev,
+  ecommerce,
+  design,
+  maintenance,
+  security,
+  ux,
+  web_dev,
 };

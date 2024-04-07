@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { app_dev, ecommerce, design, maintenance, security, ux, web_dev, hosting, people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox,} from "../assets";
 
 export const navLinks = [
   {
@@ -22,24 +22,59 @@ export const navLinks = [
 export const features = [
   {
     id: "feature-1",
-    icon: star,
-    title: "Rewards",
+    icon: hosting,
+    title: "Web Hosting",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Our reliable web hosting services ensure that your website is always accessible to your visitors, providing a seamless browsing experience.",
   },
   {
     id: "feature-2",
-    icon: shield,
-    title: "100% Secured",
+    icon: web_dev,
+    title: "Web Development",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We specialize in creating stunning websites tailored to your unique business needs, utilizing the latest web development technologies and best practices.",
   },
   {
     id: "feature-3",
-    icon: send,
-    title: "Balance Transfer",
+    icon: app_dev,
+    title: "Mobile App Development",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Transform your ideas into successful mobile applications with our expert team of app developers, who will bring your vision to life across various platforms.",
+  },
+  {
+    id: "feature-4",
+    icon: ux,
+    title: "UI/UX Design",
+    content:
+      "Our UI/UX design services focus on creating intuitive and visually appealing interfaces that enhance user engagement and provide an exceptional user experience.",
+  },
+  {
+    id: "feature-5",
+    icon: design,
+    title: "Graphic Design",
+    content:
+      "Capture attention and communicate effectively with our creative graphic design solutions, ranging from logo design and branding to marketing collaterals.",
+  },
+  {
+    id: "feature-6",
+    icon: ecommerce,
+    title: "E-Commerce Solutions",
+    content:
+      "Boost your online business with our comprehensive e-commerce solutions, including secure payment gateways, inventory management, and user-friendly interfaces.",
+  },
+  {
+    id: "feature-7",
+    icon: security,
+    title: "CCTV Installations",
+    content:
+      "Ensure the safety and security of your premises with our professional CCTV installation services, providing round-the-clock surveillance and peace of mind.",
+  },
+  {
+    id: "feature-8",
+    icon: maintenance,
+    title: "System Maintenance",
+    content:
+      "Keep your systems running smoothly with our proactive system maintenance services, including regular updates, backups, and troubleshooting assistance.",
   },
 ];
 

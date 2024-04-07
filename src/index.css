@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" );
 
 @tailwind base;
 @tailwind components;
@@ -21,12 +22,12 @@
 .text-gradient {
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,
-    #E8F5E9 0.89%,
-    #C8F6C9 17.23%,
-    #A5D6A7 42.04%,
-    #81C784 55.12%,
-    #66BB69 71.54%,
-    #6C9774 100%
+    #6c9773 -43.27%,
+    #43A046 -21.24%,
+    #6c9773 12.19%,
+    #6c9773 29.82%,
+    #6c9773 51.94%,
+    #6c9773 90.29%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -37,12 +38,12 @@
 .bg-blue-gradient {
   background: linear-gradient(
     157.81deg,
-    #def9fa -43.27%,
+    #6c9773 -43.27%,
     #43A046 -21.24%,
-    #388E3B 12.19%,
-    #237D31 29.82%,
-    #1B5E1F 51.94%,
-    #103E13 90.29%
+    #6c9773 12.19%,
+    #6c9773 29.82%,
+    #6c9773 51.94%,
+    #6c9773 90.29%
   );
 }
 

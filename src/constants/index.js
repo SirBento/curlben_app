@@ -1,4 +1,4 @@
-import { app_dev, ecommerce, design, maintenance, security, ux, web_dev, hosting, people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox,} from "../assets";
+import { app_dev, ecommerce, design, maintenance, security, ux, web_dev, hosting, people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, } from "../assets";
 
 export const navLinks = [
   {
@@ -82,15 +82,15 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "Working with CurlBen Solutions was a game-changer for my business. Their expertise in web development and design helped me create a stunning and user-friendly website that perfectly represents my brand. The increased online visibility and customer engagement I've experienced have been remarkable. Highly recommended!",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "Founder & Leader of PCCS",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "I can't thank CurlBen Solutions enough for their exceptional mobile app development services. They understood my vision and translated it into a feature-rich and intuitive app that has significantly enhanced my customers' experience. The team's professionalism, attention to detail, and timely delivery surpassed my expectations. Truly impressed!",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
@@ -98,7 +98,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Choosing CurlBen Solutions for our e-commerce solution was a game-changer for our business. Their comprehensive approach, from seamless payment integration to user-friendly interfaces, has resulted in a significant boost in sales and customer satisfaction. Their ongoing support and maintenance ensure our online store runs smoothly. We couldn't be happier!",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
@@ -128,24 +128,24 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
+        name: "Our Team",
+        link: "",
       },
       {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        name: "How We Work",
+        link: "",
       },
       {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
+        name: "Hosting Services",
+        link: "",
       },
       {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        name: "Done Projects",
+        link: "",
       },
       {
         name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        link: "",
       },
     ],
   },
@@ -154,23 +154,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        link: "",
       },
       {
         name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        link: "",
       },
       {
         name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        link: "",
       },
       {
         name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        link: "",
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        link: "",
       },
     ],
   },
@@ -179,11 +179,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "",
       },
     ],
   },
@@ -211,6 +211,7 @@ export const socialMedia = [
     link: "https://www.linkedin.com/",
   },
 ];
+
 
 export const clients = [
   {

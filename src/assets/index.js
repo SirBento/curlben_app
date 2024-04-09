@@ -28,6 +28,9 @@ import maintenance from "./maintenance.svg";
 import security from "./security.svg";
 import ux from "./ux.svg";
 import web_dev from "./web_dev.svg";
+import email from "./email.svg";
+import location from "./location.svg";
+import phone from "./phone.svg";
 
 export {
   airbnb,
@@ -60,4 +63,7 @@ export {
   security,
   ux,
   web_dev,
+  email,
+  location,
+  phone,
 };

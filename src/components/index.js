@@ -8,10 +8,8 @@ import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 import Clients from "./Clients";
-<<<<<<< HEAD
 import Contact from "./Contact";
-=======
->>>>>>> 1ebd793cfd4cdef18ec1865c4a6a35fea1e3130b
+
 
 export {
   Navbar,
@@ -24,8 +22,6 @@ export {
   Testimonials,
   Hero,
   Clients,
-<<<<<<< HEAD
   Contact,
-=======
->>>>>>> 1ebd793cfd4cdef18ec1865c4a6a35fea1e3130b
+
 };

@@ -1,9 +1,5 @@
 import styles from "./style";
-<<<<<<< HEAD
 import { Business, CTA, Footer, Navbar, Stats, Testimonials, Hero, Clients, Contact } from "./components";
-=======
-import { Business, CTA, Footer, Navbar, Stats, Testimonials, Hero, Clients } from "./components";
->>>>>>> 1ebd793cfd4cdef18ec1865c4a6a35fea1e3130b
 import React from "react";
 
 const App = () => (

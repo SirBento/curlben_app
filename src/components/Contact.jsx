@@ -6,7 +6,7 @@ import { socialMedia } from '../constants';
 function Contact() {
   return (
    
-        <div id="contact" className={` ${styles.flexCenter} ${styles.marginY} ${styles.padding} flex-col md:flex-row md:space-x-6 md:space-y-0 space-y-6  p-8 rounded-xl shadow-lg text-white flex w-full`}>
+        <div id="contact" className={`${styles.marginY} ${styles.padding} flex-col md:flex-row md:space-x-6 md:space-y-0 space-y-6  p-8 rounded-xl shadow-lg text-white flex w-full justify-between`}>
 
           <div className="flex flex-col justify-between">
             <div>
@@ -46,7 +46,7 @@ function Contact() {
           </div>
 
 
-          <div className="w-full md:w-1/2 bg-green-gradient rounded-xl shadow-lg p-8 mt-10 text-gray-700">
+          <div className="w-full md:w-1/2 bg-green-gradient rounded-xl shadow-lg p-8 mt-10 text-gray-700 ">
             <form className="flex flex-col space-y-4">
               <div>
                 <label className="text-sm text-white">Your Name</label>
@@ -54,7 +54,7 @@ function Contact() {
               </div>
               <div>
                 <label className="text-sm text-white">Email</label>
-                <input type="text" placeholder="Your Email" className="ring-1 ring-gray-300 w-full rounded-md px-4 py-2 mt-2 outline-none focus:ring-2 focus:ring-green-400" />
+                <input type="text" placeholder="Your Email" className="ring-1 ring-gray-300 w-full rounded-md px-4 py-2 mt-3 outline-none focus:ring-2 focus:ring-green-400" />
               </div>
 
               <div>
@@ -62,10 +62,10 @@ function Contact() {
                 <textarea
                   rows="4"
                   placeholder="Message"
-                  className="ring-1 ring-gray-300 w-full rounded-md px-4 py-2 mt-2 outline-none focus:ring-2 focus:ring-green-400"
+                  className="ring-1 ring-gray-300 w-full rounded-md px-4 py-2 mt-4 outline-none focus:ring-2 focus:ring-green-400"
                 ></textarea>
               </div>
-              <button className="inline-block self-end text-white font-bold rounded-lg px-6 py-2 uppercase bg-dimGreen text-sm">Send Message</button>
+              <button className="inline-block self-end text-white font-bold rounded-lg px-6 py-2 uppercase bg-dimGreen text-sm ">Send Message</button>
             </form>
           </div>
         </div>

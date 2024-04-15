@@ -29,7 +29,6 @@ const Business = () =>  (
       Embark on a hassle-free journey of web and mobile app development, backed by our reliable hosting services. Experience the expertise of our team in UX/UI design, graphics design, E-commerce solutions, systems maintenance, and CCTV installations. Additionally, we offer seamless web reselling services. Our company is committed to delivering top-quality solutions tailored to meet your every requirement, guaranteeing an outstanding online presence for your business. Entrust us with your Tech-related concerns, allowing you to concentrate on expanding your brand. Select us for a flawlessly smooth experience!
       </p>
 
-      <Button styles={`mt-10`} />
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>

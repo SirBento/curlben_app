@@ -31,6 +31,7 @@ import web_dev from "./web_dev.svg";
 import email from "./email.svg";
 import location from "./location.svg";
 import phone from "./phone.svg";
+import services from "./services.jpg";
 
 export {
   airbnb,
@@ -66,4 +67,5 @@ export {
   email,
   location,
   phone,
+  services,
 };

@@ -1,7 +1,7 @@
 import React from "react";
 import { features } from "../constants";
 import styles, { layout } from "../style";
-import Button from "./Button";
+import { services } from "../assets";
 
 const FeatureCard = ({ icon, title, content, index }) => (
   <div className={`flex flex-row p-5 rounded-[20px] ${index !== features.length - 1 ? "mb-6" : "mb-0"} feature-card`}>
@@ -25,10 +25,10 @@ const Business = () =>  (
       <h2 className={styles.heading2}>
         The entire cycle of digital  <br className="sm:block hidden" />  transformation effortlessly handled for you.
       </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+      <p className={`${styles.paragraph} max-w-[600px] mt-5`}>
       Embark on a hassle-free journey of web and mobile app development, backed by our reliable hosting services. Experience the expertise of our team in UX/UI design, graphics design, E-commerce solutions, systems maintenance, and CCTV installations. Additionally, we offer seamless web reselling services. Our company is committed to delivering top-quality solutions tailored to meet your every requirement, guaranteeing an outstanding online presence for your business. Entrust us with your Tech-related concerns, allowing you to concentrate on expanding your brand. Select us for a flawlessly smooth experience!
       </p>
-
+      <img src={services} alt="building" className="mt-10 w-[100%] h-[100%] relative z-[5]" />
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>

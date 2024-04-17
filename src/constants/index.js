@@ -1,4 +1,4 @@
-import { app_dev, ecommerce, design, maintenance, security, ux, web_dev, hosting, people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, } from "../assets";
+import { app_dev, ecommerce, design, maintenance, security, ux, web_dev, hosting, people01, people02, people03, facebook, instagram, linkedin, twitter, pccs, seke1, selby, nkateko, } from "../assets";
 
 export const navLinks = [
   {
@@ -216,18 +216,35 @@ export const socialMedia = [
 export const clients = [
   {
     id: "client-1",
-    logo: airbnb,
+    logo: pccs,
+    name: "Butrack Security"
   },
   {
     id: "client-2",
-    logo: binance,
+    logo: selby,
+    name: "Selby Amber",
   },
   {
     id: "client-3",
-    logo: coinbase,
+    logo: seke1,
+    name: "Seke 1 High",
+  },
+    {
+    id: "client-4",
+    logo: pccs,
+    name: "PCCS Zim",
   },
   {
-    id: "client-4",
-    logo: dropbox,
+    id: "client-6",
+    logo: nkateko,
+    name: "Nkateko",
   },
+  {
+    id: "client-6",
+    logo: seke1,
+    name: "Loadfix",
+  },
+  
+  
+
 ];

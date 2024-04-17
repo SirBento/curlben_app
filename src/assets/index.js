@@ -1,9 +1,9 @@
-import airbnb from "./airbnb.png";
+import pccs from "./pccs.png";
 import bill from "./bill.png";
-import binance from "./binance.png";
+import seke1 from "./seke1.png";
 import card from "./card.png";
-import coinbase from "./coinbase.png";
-import dropbox from "./dropbox.png";
+import selby from "./selby.png";
+import nkateko from "./nkateko.png";
 import logo from "./logo.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.jpg";
@@ -34,12 +34,12 @@ import phone from "./phone.svg";
 import services from "./services.jpg";
 
 export {
-  airbnb,
+  pccs,
   bill,
-  binance,
+  seke1,
   card,
-  coinbase,
-  dropbox,
+  selby,
+  nkateko,
   logo,
   quotes,
   robot,

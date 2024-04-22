@@ -6,7 +6,7 @@ export default {
     extend: {
       colors: {
         primary: "#00040f",  //#083A2E #0D3A2D
-        secondary: "#00f6ff",
+        secondary: "#e8ffe8", //#e8ffe8  #ace7ef #2cb978
         dimWhite: "rgba(255, 255, 255, 0.7)",
         dimBlue: "rgba(9, 151, 124, 0.1)",
         dimGreen: "#6c9773",

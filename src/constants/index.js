@@ -1,4 +1,4 @@
-import { app_dev, ecommerce, design, maintenance, security, ux, web_dev, hosting, people01, people02, people03, facebook, instagram, linkedin, twitter, pccs, seke1, selby, nkateko, } from "../assets";
+import { app_dev, ecommerce, design, maintenance, security, ux, web_dev, hosting, people01, people02, people03, facebook, instagram, linkedin, twitter, pccs, seke1, selby, nkateko,loadfix, } from "../assets";
 
 export const navLinks = [
   {
@@ -83,7 +83,7 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Working with CurlBen Solutions was a game-changer for my business. Their expertise in web development and design helped me create a stunning and user-friendly website that perfectly represents my brand. The increased online visibility and customer engagement I've experienced have been remarkable. Highly recommended!",
-    name: "Herman Jensen",
+    name: "Dr Machinga",
     title: "Founder & Leader of PCCS",
     img: people01,
   },
@@ -216,35 +216,27 @@ export const socialMedia = [
 export const clients = [
   {
     id: "client-1",
-    logo: pccs,
-    name: "Butrack Security"
-  },
-  {
-    id: "client-2",
     logo: selby,
     name: "Selby Amber",
   },
   {
-    id: "client-3",
+    id: "client-2",
     logo: seke1,
-    name: "Seke 1 High",
+    name: "Seke 1 High School",
   },
     {
-    id: "client-4",
+    id: "client-3",
     logo: pccs,
     name: "PCCS Zim",
   },
   {
-    id: "client-6",
+    id: "client-4",
     logo: nkateko,
     name: "Nkateko",
   },
   {
-    id: "client-6",
-    logo: seke1,
+    id: "client-5",
+    logo: loadfix,
     name: "Loadfix",
   },
-  
-  
-
 ];

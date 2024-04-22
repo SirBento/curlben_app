@@ -1,7 +1,5 @@
 import pccs from "./pccs.png";
-import bill from "./bill.png";
 import seke1 from "./seke1.png";
-import card from "./card.png";
 import selby from "./selby.png";
 import nkateko from "./nkateko.png";
 import logo from "./logo.png";
@@ -32,16 +30,16 @@ import email from "./email.svg";
 import location from "./location.svg";
 import phone from "./phone.svg";
 import services from "./services.jpg";
+import loadfix from "./loadfix.png";
 
 export {
   pccs,
-  bill,
   seke1,
-  card,
   selby,
   nkateko,
   logo,
   quotes,
+  loadfix,
   robot,
   menu,
   close,

@@ -1,5 +1,4 @@
 import Navbar from "./Navbar";
-import Billing from "./Billing";
 import Business from "./Business";
 import CTA from "./CTA";
 import Stats from "./Stats";
@@ -12,7 +11,6 @@ import Contact from "./Contact";
 
 export {
   Navbar,
-  Billing,
   Business,
   CTA,
   Stats,

@@ -4,7 +4,7 @@ import styles from "../style";
 
 const Clients = () => (
   <section className={`${styles.flexCenter}`}>
-    <div className={`${styles.flexCenter} max-w-90% flex-wrap md:flex-row flex-col`}>
+    <div className={`${styles.flexCenter} max-w-90% flex-wrap md:flex-row flex-col mt-6`}>
       {clients.map((client) => (
         <>
          <div key={client.id} className={`${styles.flexCenter} w-[100px] h-[100px] rounded-3xl bg-secondary m-6 justify-center`}>

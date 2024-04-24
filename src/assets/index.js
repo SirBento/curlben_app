@@ -15,9 +15,6 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-import people01 from "./people01.png";
-import people02 from "./people02.png";
-import people03 from "./people03.png";
 import hosting from "./hosting.svg";
 import app_dev from "./app_dev.svg";
 import ecommerce from "./ecommerce.svg";
@@ -31,6 +28,10 @@ import location from "./location.svg";
 import phone from "./phone.svg";
 import services from "./services.jpg";
 import loadfix from "./loadfix.png";
+import loadfixW from "./loadfix.jpg";
+import doc from "./doc.png";
+
+
 
 export {
   pccs,
@@ -40,6 +41,7 @@ export {
   logo,
   quotes,
   loadfix,
+  loadfixW,
   robot,
   menu,
   close,
@@ -51,9 +53,6 @@ export {
   instagram,
   linkedin,
   twitter,
-  people01,
-  people02,
-  people03,
   hosting,
   app_dev,
   ecommerce,
@@ -66,4 +65,5 @@ export {
   location,
   phone,
   services,
+  doc
 };

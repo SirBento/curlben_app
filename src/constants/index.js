@@ -91,8 +91,8 @@ export const feedback = [
     id: "feedback-2",
     content:
       "CurlBen Solutions sets the bar high with their exceptional web hosting services. Their unwavering commitment to reliability and security ensures uninterrupted online presence for my business. I highly recommend CurlBen Solutions for their outstanding web hosting expertise.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+    name: "Mr Matarise ",
+    title: "Founder & Director",
     img: selby,
   },
   {
@@ -193,22 +193,22 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/curlben_solutions_pvt_ltd?igsh=a3BiaTVqa3VtMzE2",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://www.facebook.com/share/GW8rbdkVg3G3ZGd6/?mibextid=qi2Omg",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://x.com/CurlbenLtd?t=Nmp73vRBZyS9qbQ-t6PJMA&s=09",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/company/curlben-solutions/",
   },
 ];
 

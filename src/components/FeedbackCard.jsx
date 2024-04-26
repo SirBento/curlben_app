@@ -9,7 +9,7 @@ const FeedbackCard = ({ content, name, title, img }) => (
     </p>
 
     <div className="flex flex-row">
-      <img src={img} alt={name} className="w-[60px] h-[60px] rounded-full" />
+      <img src={img} alt={name} className="w-[60px] h-[60px] rounded-full  bg-white" />
       <div className="flex flex-col ml-4">
         <h4 className="font-nutino font-semibold text-[20px] leading-[32px] text-white">
           {name}

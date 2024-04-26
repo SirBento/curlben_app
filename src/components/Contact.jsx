@@ -20,9 +20,9 @@ function Contact() {
                 <img src={phone} alt="phone" className="w-[50%] h-[50%] object-contain" />
                 <span className="ml-0"> +263 771 392 149 +263 786 291 896 +263 712 104 613</span>
               </div>
-              <div className={`w-[230px] h-[64px] rounded-full ${styles.flexCenter}`}>
+              <div className={`w-[260px] h-[64px] rounded-full ${styles.flexCenter}`}>
                 <img src={email} alt="email" className="w-[50%] h-[50%] object-contain" />
-                <span className="ml-0"> curlben2023@gmail.com</span>
+                <span className="ml-2"> curlbensolutions@gmail.com</span>
               </div>
               <div className={`w-[240px] h-[70px] rounded-full ${styles.flexCenter}`}>
                 <img src={location} alt="location" className="w-[50%] h-[50%] object-contain" />

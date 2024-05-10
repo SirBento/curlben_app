@@ -19,6 +19,6 @@ CSS
 JavaScript
 Getting Started:
 
-Clone the repository: git clone https://github.com/curlben-solutions/react-app
+Clone the repository: git clone https://github.com/SirBento/curlben_app.git
 Install dependencies: npm install
 Start the development server: npm run dev
